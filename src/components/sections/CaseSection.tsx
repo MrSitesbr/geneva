@@ -31,7 +31,7 @@ export default function CaseSection() {
           {/* Stats */}
           <div className="space-y-8">
             <div className="text-center p-6">
-              <div className="text-4xl md:text-6xl font-bold text-white mb-2">+200</div>
+              <div className="text-4xl md:text-6xl font-bold text-white mb-2">+100</div>
               <div className="text-teal-200 text-lg">Funcionários Ativos</div>
             </div>
             <div className="text-center p-6">

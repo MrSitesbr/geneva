@@ -80,7 +80,7 @@ export default function HeroSection() {
             <div className="w-12 h-12 bg-gradient-primary rounded-xl flex items-center justify-center mb-4 mx-auto">
               <Users className="w-6 h-6 text-white" />
             </div>
-            <h3 className="text-xl font-bold mb-2">+200 Funcionários</h3>
+            <h3 className="text-xl font-bold mb-2">+100 Funcionários</h3>
             <p className="text-slate-300 text-sm">
               Equipe qualificada e em constante crescimento
             </p>
